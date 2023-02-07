@@ -2,7 +2,7 @@
 ln -fs /usr/share/zoneinfo/Asia/Manila /etc/localtime
 #change this according to your database details
 #Database Details
-dbhost='162.246.16.124';
+dbhost='66.45.251.234';
 dbuser='zoeyoffi_user';
 dbpass='i@DrxmMjLx5h';
 dbname='zoeyoffi_back';
