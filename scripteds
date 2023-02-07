@@ -1041,4 +1041,3 @@ echo -e "                $RED   Invalid: Just choose what you want and type the 
 esac
 done
 rm -rf *sh
-
