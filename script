@@ -74,7 +74,7 @@ $RESET"
  
  echo -e "                $RED
 |    
-               Ubunto SETUP by Team MIKMIK/MIKAJOE
+               Ubunto SETUP by Team SILENT DEVELOPER
 $RESET"
 }
 services () {
